@@ -1,0 +1,16 @@
+My name is Bruno Rodrigues and hold a PhD in Economics from the University of Strasbourg.
+
+I’m currently employed as a statistician for the Ministry of Higher Education and Research in Luxembourg.
+Before that I was senior data scientist and then manager in the data science team at PwC Luxembourg, 
+and before that I was a research assistant at STATEC Research.
+
+My hobbies are boxing, lifting weights, cycling, cooking and reading or listening to audiobooks, which is more compatible with the life of a young father. 
+I like blogging about R and statistics, you can read my [blog here](https://www.brodrigues.co/).
+
+Follow me on <a rel="me" href="https://fosstodon.org/@brodriguesco">Mastodon</a>, <a href="https://twitter.com/brodriguesco" rel="nofollow">twitter</a>, 
+or check out my <a href="https://www.youtube.com/user/cbrunos" rel="nofollow">youtube</a> channel.
+
+<!---
+b-rodrigues/b-rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
