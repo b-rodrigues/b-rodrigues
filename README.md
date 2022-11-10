@@ -5,7 +5,8 @@ Before that I was senior data scientist and then manager in the data science tea
 and before that I was a research assistant at STATEC Research.
 
 My hobbies are boxing, lifting weights, cycling, cooking and reading or listening to audiobooks, which is more compatible with the life of a young father. 
-I like blogging about R and statistics, you can read my [blog here](https://www.brodrigues.co/).
+I like blogging about R and statistics, you can read my [blog here](https://www.brodrigues.co/). I also teach a course about building
+reproducible analytical pipeline with R, and you can the course notes for free [here](https://rap4mads.eu/).
 
 Follow me on <a rel="me" href="https://fosstodon.org/@brodriguesco">Mastodon</a>, <a href="https://twitter.com/brodriguesco" rel="nofollow">twitter</a>, 
 or check out my <a href="https://www.youtube.com/user/cbrunos" rel="nofollow">youtube</a> channel.
