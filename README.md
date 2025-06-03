@@ -1,5 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/luxembourg/b-rodrigues.svg)](https://user-badge.committers.top/luxembourg/b-rodrigues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-rodrigues&hide=javascript,html,css,tex,vimscript,emacslisp,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-rodrigues&hide=javascript,html,css,tex,vim script,emacs lisp,php)
 
 My name is Bruno Rodrigues and hold a PhD in Economics from the University of Strasbourg.
 
