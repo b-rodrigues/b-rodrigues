@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-rodrigues&layout=compact&hide=javascript,html,css,tex,vim%20script,emacs%20lisp,php,lua)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-rodrigues)](https://github.com/b-rodrigues/github-readme-stats)
