@@ -1,3 +1,6 @@
+[![committers.top badge](https://user-badge.committers.top/luxembourg/b-rodrigues.svg)](https://user-badge.committers.top/luxembourg/b-rodrigues)
+
+
 My name is Bruno Rodrigues and hold a PhD in Economics from the University of Strasbourg.
 
 I’m currently employed as a statistician for the Ministry of Research and Higher Education in Luxembourg.
