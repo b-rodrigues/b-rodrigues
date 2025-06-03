@@ -1,5 +1,4 @@
 [![committers.top badge](https://user-badge.committers.top/luxembourg/b-rodrigues.svg)](https://user-badge.committers.top/luxembourg/b-rodrigues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-rodrigues&hide=javascript,html,css,tex,vim%20script,emacs%20lisp,php,lua)
 
 My name is Bruno Rodrigues and hold a PhD in Economics from the University of Strasbourg.
 
@@ -18,3 +17,5 @@ or check out my <a href="https://www.youtube.com/user/cbrunos" rel="nofollow">yo
 b-rodrigues/b-rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-rodrigues&layout=compact&hide=javascript,html,css,tex,vim%20script,emacs%20lisp,php,lua)
